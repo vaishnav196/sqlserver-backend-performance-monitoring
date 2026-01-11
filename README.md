@@ -8,3 +8,13 @@ backend performance issues such as:
 - Queries causing application slowness
 - Execution plans for troubleshooting
 - Deadlock investigation support
+
+-----
+
+## 🔍 What This Script Helps With
+- Identifying blocking chains
+- Detecting long-running open transactions
+- Finding queries holding locks
+- Understanding backend slowness
+- Production issue diagnosis
+
